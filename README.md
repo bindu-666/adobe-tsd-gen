@@ -1,0 +1,1 @@
+# adobe-tsd-gen
